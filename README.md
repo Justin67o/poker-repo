@@ -1,1 +1,3 @@
 # poker.repo
+
+Poker game
