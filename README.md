@@ -2,6 +2,6 @@
 
 Poker game
 
-## Subheading
+## Description
 
-Poker Hi
+Play poker by yourself!
