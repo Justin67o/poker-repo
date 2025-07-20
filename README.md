@@ -1,4 +1,4 @@
-# poker.repo
+# Poker
 
 Poker game
 
